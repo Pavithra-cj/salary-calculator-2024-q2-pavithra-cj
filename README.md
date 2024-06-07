@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Salary Calculator 2024 Q2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-## Available Scripts
+## Introduction
+Welcome to the Salary Calculator project! This application is designed to help users easily calculate their take-home pay by factoring in various deductions such as the Employees' Provident Fund (EPF), Employees' Trust Fund (ETF), and Annual Personal Income Tax (APIT). This project was created as part of an intern assignment to demonstrate proficiency in React and related technologies.
 
-In the project directory, you can run:
+## Features
+- Add/Update Salary Components: Users can input their basic salary and add/update earnings or deductions.
+- EPF/ETF Applicability: Users can specify whether EPF/ETF applies to specific earnings.
+- Dynamic Calculations: Automatic recalculation of the salary based on user inputs.
+- Reset/Clear Functionality: Users can reset or clear the form to start fresh.
+- Mobile Responsive: The application is designed to be responsive and works well on mobile devices.
 
-### `npm start`
+## Technologies Used
+- React: JavaScript library for building user interfaces.
+- Redux: State management libraries.
+- React Hooks: For managing state and lifecycle methods.
+- Tailwind CSS
+- Styled-Components: CSS-in-JS library for component-level styles.
+- Linter: Code quality tool (mention specific linter, e.g., ESLint).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
+To run this project locally, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your_github_username>/salary-calculator-2024-Q2.git
+   cd salary-calculator-2024-Q2
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Install dependencies:
+   ```bash
+   npm install
 
-### `npm test`
+3. Start the development server:
+   ```bash
+   npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
+- Add/Update Salary Components: Input your basic salary. Add earnings or deductions and specify if EPF/ETF is applicable. See the salary automatically recalculated as you make changes.
+- Reset/Clear the Form: Use the reset button to clear all inputs and start fresh.
 
-### `npm run build`
+## Contributing
+Contributions are welcome! Please follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add some feature').
+5. Push to the branch (git push origin feature-branch).
+6. Create a Pull Request.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contact
+If you have any questions or feedback, please feel free to contact me:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: [Pavithra-cj](https://github.com/Pavithra-cj)
+Email: pavithrachamodj@gmail.com
