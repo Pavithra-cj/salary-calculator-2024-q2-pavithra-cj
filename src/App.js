@@ -1,9 +1,10 @@
 import './App.css';
+import HomePage from './components/HomePage';
 
 function App() {
   return (
     <div className="App">
-      <h1>Salary Calculator</h1>
+      <HomePage/>
     </div>
   );
 }
