@@ -31,7 +31,7 @@ Welcome to the Salary Calculator project! This application is designed to help u
 To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your_github_username>/salary-calculator-2024-Q2.git
+   git clone https://github.com/Pavithra-cj/salary-calculator-2024-q2-pavithra-cj.git
    cd salary-calculator-2024-Q2
 
 2. Install dependencies:
