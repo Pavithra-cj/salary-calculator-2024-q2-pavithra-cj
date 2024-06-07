@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pavithra-cj/salary-calculator-2024-q2-pavithra-cj.git
-   cd salary-calculator-2024-Q2
+   cd salary-calculator-2024-q2-pavithra-cj
 
 2. Install dependencies:
    ```bash
